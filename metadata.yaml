@@ -1,0 +1,31 @@
+_repo: The-Peacock-Feather-A-Romance_62964
+_version: 0.0.1
+creator:
+  author:
+    agent_name: LM (Leslie Moore)
+    aliases:
+    - Baker, Ida Constance
+    - Moore, Leslie
+    - M., L. (Leslie Moore)
+    birthdate: 1888
+    deathdate: 1978
+    gutenberg_agent_id: '31881'
+    url: http://www.gutenberg.org/2009/agents/31881
+description: ''
+gutenberg_issued: '2020-08-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62964'
+  lccn: '14001660'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Love stories'
+- !lcsh 'Ex-convicts -- Fiction'
+- !lcsh 'England -- Social life and customs -- Fiction'
+- !lcc 'PR'
+- GITenberg
+title: 'The Peacock Feather: A Romance'
+url: http://www.gutenberg.org/ebooks/62964
